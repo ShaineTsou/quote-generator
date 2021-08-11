@@ -1,6 +1,6 @@
 {
-    "name": "AgroDev",
-    "short_name": "AgroDev",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/assets/icons/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#f3fffc",
-    "background_color": "#f3fffc",
+    "theme_color": "#fffbf0",
+    "background_color": "#fffbf0",
     "display": "standalone"
 }
