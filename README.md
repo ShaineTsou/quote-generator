@@ -1,10 +1,9 @@
 # Quote Generator
-
-An app that shows cheerful quotes to keep your chin up!
+A web app which generates CSS code of customized or random CSS gradient background
 
 ## Core Functionalities
 * Change quotes to find the one you like
-* Share quotes to social media sites
+* Share quotes to Twitter
 
 ## Technology Used
 * Asynchronous fetch request to REST API to get quotes 
