@@ -1,9 +1,9 @@
 # Quote Generator
-A web app which generates CSS code of customized or random CSS gradient background
+A web app which generates random quotes that can be shared to Twitter
 
 ## Core Functionalities
 * Change quotes to find the one you like
 * Share quotes to Twitter
 
 ## Technology Used
-* Asynchronous fetch request to REST API to get quotes 
+* Asynchronous request to [quotes API](https://type.fit/api/quotes) to get quotes 
